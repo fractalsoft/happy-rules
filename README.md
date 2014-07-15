@@ -4,10 +4,10 @@ Happy Rules
 * Jesteśmy **zespołem**!
 * Szanujemy się wzajemnie.
 * Doceniamy innych
-* Dotrzymujemy obiednic
+* Dotrzymujemy obietnic
 * Wspólnie uczestniczymy w eventach (różnych)
 * Słuchamy (nie tylko słyszymy) innych
-* Formuujemy **proste** i zrozumiałe komunikaty
+* Formułujemy **proste** i zrozumiałe komunikaty
 * Żartujemy z innymi, nie z innych
 * Nie przerywamy innym
 * Stosujemy konstruktywną krytykę
