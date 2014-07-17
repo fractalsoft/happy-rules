@@ -21,7 +21,7 @@ Happy Rules
 * Turnieje dla teamu, planówki, code party
 * Po zakończonych projektach nagroda dla teamu
 * Wcześniejsze informowanie o eventach
-* (Pair Programming](http://en.wikipedia.org/wiki/Pair_programming), wewnętrzne szkolenia
+* [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming), wewnętrzne szkolenia
 * Programowanie na świeżym powietrzu lub w innym kraju
 * Więcej prezentacji, dzielenie się wiedzą
 * Częsty feedback
